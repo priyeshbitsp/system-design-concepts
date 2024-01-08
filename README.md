@@ -1,1 +1,1 @@
-Explainer of Systerm Desing Concepts
+Explainer of System Design Concepts
